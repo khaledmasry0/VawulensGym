@@ -12,7 +12,7 @@ http://vawulensgym-app.surge.sh/
 For Creating a React project
 
 ###  `CSS` , `React-icons`
-for styling and icons
+for styling and icons 
 
 <hr/>
 
